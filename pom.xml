@@ -1,0 +1,61 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+</project>
+    </build>
+        </plugins>
+            </plugin>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+                <groupId>org.springframework.boot</groupId>
+            <plugin>
+        <plugins>
+    <build>
+    </dependencies>
+        </dependency>
+            <version>1.1.3</version>
+            <artifactId>spring-modulith-starter-core</artifactId>
+            <groupId>org.springframework.modulith</groupId>
+        <dependency>
+        <!-- Spring Boot Model Context Protocol Server (assuming as a placeholder, update if specific artifact) -->
+        </dependency>
+            <optional>true</optional>
+            <scope>runtime</scope>
+            <artifactId>spring-boot-devtools</artifactId>
+            <groupId>org.springframework.boot</groupId>
+        <dependency>
+        </dependency>
+            <optional>true</optional>
+            <artifactId>lombok</artifactId>
+            <groupId>org.projectlombok</groupId>
+        <dependency>
+        </dependency>
+            <scope>runtime</scope>
+            <artifactId>h2</artifactId>
+            <groupId>com.h2database</groupId>
+        <dependency>
+        </dependency>
+            <artifactId>spring-boot-starter-data-jpa</artifactId>
+            <groupId>org.springframework.boot</groupId>
+        <dependency>
+        </dependency>
+            <artifactId>spring-boot-starter-web</artifactId>
+            <groupId>org.springframework.boot</groupId>
+        <dependency>
+    <dependencies>
+    </properties>
+        <java.version>17</java.version>
+    <properties>
+    </parent>
+        <relativePath/> <!-- lookup parent from repository -->
+        <version>3.5.3</version>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <groupId>org.springframework.boot</groupId>
+    <parent>
+    <description>Spring Boot MCP Server</description>
+    <name>java-mcp-server</name>
+    <packaging>jar</packaging>
+    <version>0.0.1-SNAPSHOT</version>
+    <artifactId>java-mcp-server</artifactId>
+    <groupId>io.aviraj.ai.mcp</groupId>
+    <modelVersion>4.0.0</modelVersion>
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+
